@@ -1,0 +1,22 @@
+{
+  "name": "fetch-unit-test",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "mocha -- no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aCodeReader/Fetch-unit-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aCodeReader/Fetch-unit-Test/issues"
+  },
+  "homepage": "https://github.com/aCodeReader/Fetch-unit-Test#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
